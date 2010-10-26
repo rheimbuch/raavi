@@ -3,5 +3,6 @@ Dir[File.join(JAR_LIB,'*.jar')].each {|jar| require jar}
 
 require 'java'
 module Raavi
-  # Your code goes here...
 end
+
+require 'raavi/application'

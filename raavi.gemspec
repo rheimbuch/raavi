@@ -6,11 +6,11 @@ Gem::Specification.new do |s|
   s.name        = "raavi"
   s.version     = Raavi::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ["TODO: Write your name"]
-  s.email       = ["TODO: Write your email address"]
-  s.homepage    = "http://rubygems.org/gems/raavi"
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.authors     = ["Ryan Heimbuch"]
+  s.email       = ["rheimbuch@gmail.com"]
+  s.homepage    = "http://github.com/rheimbuch/raavi"
+  s.summary     = %q{Easy Vaadin apps in JRuby}
+  s.description = %q{Wraps the Vaadin library for use from JRuby}
 
   s.rubyforge_project = "raavi"
 
